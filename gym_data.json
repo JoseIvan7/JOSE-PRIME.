@@ -1,0 +1,66 @@
+{
+    "dias": {
+        "lunes": {
+            "nombre": "Lunes",
+            "musculos": "Pecho · Tríceps · Hombro",
+            "ultima_rutina": [
+                "press_inclinado"
+            ]
+        },
+        "martes": {
+            "nombre": "Martes",
+            "musculos": "Espalda · Bíceps · Hombro post",
+            "ultima_rutina": []
+        },
+        "miercoles": {
+            "nombre": "Miércoles",
+            "musculos": "Pierna · Glúteo · Gemelo",
+            "ultima_rutina": []
+        },
+        "jueves": {
+            "nombre": "Jueves",
+            "musculos": "Hombro · Abdomen · Brazos",
+            "ultima_rutina": []
+        },
+        "viernes": {
+            "nombre": "Viernes",
+            "musculos": "Full body · Core · Cardio",
+            "ultima_rutina": []
+        }
+    },
+    "ejercicios": {
+        "press_inclinado": {
+            "nombre": "PRESS INCLINADO",
+            "dia": "lunes",
+            "musculo": "Pecho",
+            "peso": "30 kg",
+            "series": 3,
+            "reps": 10
+        },
+        "press_inclinado_copia": {
+            "nombre": "PRESS INCLINADO",
+            "dia": "jueves",
+            "musculo": "Pecho",
+            "peso": "30 kg",
+            "series": 3,
+            "reps": 10
+        }
+    },
+    "historial": [],
+    "sesiones": [
+        {
+            "fecha": "2026-06-03",
+            "dia": "Lunes",
+            "dia_id": "lunes",
+            "inicio": "2026-06-03T21:28:34",
+            "fin": "2026-06-03T21:29:13",
+            "duracion_min": 0,
+            "ejercicios": [
+                "PRESS INCLINADO"
+            ],
+            "ejercicio_ids": [
+                "press_inclinado"
+            ]
+        }
+    ]
+}
